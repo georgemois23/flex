@@ -47,7 +47,7 @@
     height: 70px;
 }
 
-@media all and (width<=756px) {
+@media all and (max-width: 756px) {
     .container { 
     flex-wrap: wrap;
     flex-direction: row;    
